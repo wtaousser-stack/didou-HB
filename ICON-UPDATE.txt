@@ -1,0 +1,3 @@
+The PWA icons (icon-192.png, icon-512.png, apple-touch-icon.png) were regenerated from didou-HB-logo.png, the new approved dynamic sports logo with the didou-HB wordmark. The full square artwork is preserved.
+
+After publishing, remove the old Home Screen shortcut on iPhone and add it again from Safari to refresh the icon. Service worker cache was bumped to v2.

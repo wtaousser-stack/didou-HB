@@ -1,0 +1,23 @@
+{
+  "name": "didou-HB \u2014 Your Daily Coach",
+  "short_name": "didou-HB",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#101827",
+  "description": "Personal activity, running, weight and food tracking.",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
